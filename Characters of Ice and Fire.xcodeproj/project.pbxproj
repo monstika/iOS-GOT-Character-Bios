@@ -25,6 +25,8 @@
 		5D0E3B2C1905460000269367 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D0E3B071905460000269367 /* CoreData.framework */; };
 		5D0E3B341905460000269367 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B321905460000269367 /* InfoPlist.strings */; };
 		5D0E3B361905460000269367 /* Characters_of_Ice_and_FireTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D0E3B351905460000269367 /* Characters_of_Ice_and_FireTests.m */; };
+		5D0E3B411905466E00269367 /* tyrion-lannister.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B401905466E00269367 /* tyrion-lannister.jpg */; };
+		5D0E3B43190559DD00269367 /* lannister_sigil.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B42190559DD00269367 /* lannister_sigil.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +63,8 @@
 		5D0E3B311905460000269367 /* Characters of Ice and FireTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Characters of Ice and FireTests-Info.plist"; sourceTree = "<group>"; };
 		5D0E3B331905460000269367 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5D0E3B351905460000269367 /* Characters_of_Ice_and_FireTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Characters_of_Ice_and_FireTests.m; sourceTree = "<group>"; };
+		5D0E3B401905466E00269367 /* tyrion-lannister.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "tyrion-lannister.jpg"; sourceTree = "<group>"; };
+		5D0E3B42190559DD00269367 /* lannister_sigil.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lannister_sigil.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +127,7 @@
 		5D0E3B091905460000269367 /* Characters of Ice and Fire */ = {
 			isa = PBXGroup;
 			children = (
+				5D0E3B3F1905466300269367 /* Resources */,
 				5D0E3B121905460000269367 /* AppDelegate.h */,
 				5D0E3B131905460000269367 /* AppDelegate.m */,
 				5D0E3B151905460000269367 /* Main.storyboard */,
@@ -164,6 +169,15 @@
 				5D0E3B321905460000269367 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5D0E3B3F1905466300269367 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5D0E3B42190559DD00269367 /* lannister_sigil.jpg */,
+				5D0E3B401905466E00269367 /* tyrion-lannister.jpg */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -242,7 +256,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D0E3B43190559DD00269367 /* lannister_sigil.jpg in Resources */,
 				5D0E3B221905460000269367 /* Images.xcassets in Resources */,
+				5D0E3B411905466E00269367 /* tyrion-lannister.jpg in Resources */,
 				5D0E3B0E1905460000269367 /* InfoPlist.strings in Resources */,
 				5D0E3B171905460000269367 /* Main.storyboard in Resources */,
 			);
