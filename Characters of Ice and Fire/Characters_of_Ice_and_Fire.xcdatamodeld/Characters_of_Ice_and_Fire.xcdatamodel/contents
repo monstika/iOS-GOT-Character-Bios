@@ -6,6 +6,7 @@
         <attribute name="info" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="sigil" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sortName" optional="YES" attributeType="String" syncable="YES"/>
     </entity>
     <entity name="Event">
         <attribute name="timeStamp" optional="YES" attributeType="Date">
@@ -15,6 +16,6 @@
     </entity>
     <elements>
         <element name="Event" positionX="261" positionY="189" width="128" height="60"/>
-        <element name="Character" positionX="261" positionY="198" width="128" height="120"/>
+        <element name="Character" positionX="261" positionY="198" width="128" height="135"/>
     </elements>
 </model>

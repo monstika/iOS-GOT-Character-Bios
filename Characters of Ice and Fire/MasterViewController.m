@@ -29,6 +29,7 @@
 
     UIBarButtonItem *addButton = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemAdd target:self action:@selector(insertNewObject:)];
     self.navigationItem.rightBarButtonItem = addButton;
+    [self loadCharacters];
 }
 
 - (void)didReceiveMemoryWarning
@@ -37,7 +38,7 @@
     // Dispose of any resources that can be recreated.
 }
 
-- (void)insertNewObject:(id)sender
+- (NSManagedObject *) insertNewObject:(id)sender
 {
     NSManagedObjectContext *context = [self.fetchedResultsController managedObjectContext];
     NSEntityDescription *entity = [[self.fetchedResultsController fetchRequest] entity];
@@ -47,7 +48,7 @@
     // Normally you should use accessor methods, but using KVC here avoids the need to add a custom class to the template.
     [newManagedObject setValue:@"Tyrion" forKey:@"firstName"];
      [newManagedObject setValue:@"Lannister" forKey:@"lastName"];
-     [newManagedObject setValue:@"HELLO" forKey:@"info"];
+     [newManagedObject setValue:@"Tyrion Lannister" forKey:@"info"];
     [newManagedObject setValue:@"Imp, Halfman, Giant of Lannister" forKey:@"aliases"];
     [newManagedObject setValue:@"lannister_sigil" forKey:@"sigil"];
     
@@ -58,6 +59,32 @@
          // abort() causes the application to generate a crash log and terminate. You should not use this function in a shipping application, although it may be useful during development. 
         NSLog(@"Unresolved error %@, %@", error, [error userInfo]);
         abort();
+    }
+    return newManagedObject;
+}
+
+- (void) loadCharacters {
+    NSString* filePath = [[NSBundle mainBundle] pathForResource:@"characterlist" ofType:@"txt"];
+    NSError *err = nil;
+    NSString *fileContents = [NSString stringWithContentsOfFile:filePath
+                                                       encoding:NSUTF8StringEncoding
+                                                          error:&err];
+    
+    NSArray *listItems = [fileContents componentsSeparatedByString:@"\n"];
+    NSArray *nameArray;
+    
+    for (NSString *characterName in listItems) {
+        nameArray = [characterName componentsSeparatedByString:@" "];
+        NSString *firstName = nameArray[0];
+        NSString *lastName = @"";
+        if ([nameArray count] == 2)
+            lastName = nameArray[1];
+      //  NSManagedObject *character = [self insertNewObject:nil];
+      //  [character setValue:nameArray[0] forKey:@"firstName"];
+      //  [character setValue:nameArray[1] forKey:@"lastName"];
+        NSString *sortName =  [lastName stringByAppendingString:firstName];
+        NSLog(sortName);
+        
     }
 }
 
@@ -71,6 +98,8 @@
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
     id <NSFetchedResultsSectionInfo> sectionInfo = [self.fetchedResultsController sections][section];
+    int num = [sectionInfo numberOfObjects];
+    NSLog([NSString stringWithFormat:@"%d OBJECTS HEER", num]);
     return [sectionInfo numberOfObjects];
 }
 
@@ -135,7 +164,7 @@
     [fetchRequest setFetchBatchSize:20];
     
     // Edit the sort key as appropriate.
-    NSSortDescriptor *sortDescriptor = [[NSSortDescriptor alloc] initWithKey:@"lastName" ascending:NO];
+    NSSortDescriptor *sortDescriptor = [[NSSortDescriptor alloc] initWithKey:@"sortName" ascending:NO];
     NSArray *sortDescriptors = @[sortDescriptor];
     
     [fetchRequest setSortDescriptors:sortDescriptors];

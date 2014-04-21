@@ -27,6 +27,97 @@
 		5D0E3B361905460000269367 /* Characters_of_Ice_and_FireTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D0E3B351905460000269367 /* Characters_of_Ice_and_FireTests.m */; };
 		5D0E3B411905466E00269367 /* tyrion-lannister.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B401905466E00269367 /* tyrion-lannister.jpg */; };
 		5D0E3B43190559DD00269367 /* lannister_sigil.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B42190559DD00269367 /* lannister_sigil.jpg */; };
+		5D0E3B471905685500269367 /* daenerys-targaryen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B461905685500269367 /* daenerys-targaryen.jpg */; };
+		5D0E3BA619058CE000269367 /* Aegon Targaryen.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B4B19058CE000269367 /* Aegon Targaryen.txt */; };
+		5D0E3BA719058CE000269367 /* Aegon V Targaryen.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B4C19058CE000269367 /* Aegon V Targaryen.txt */; };
+		5D0E3BA819058CE000269367 /* Aeron Greyjoy.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B4D19058CE000269367 /* Aeron Greyjoy.txt */; };
+		5D0E3BA919058CE000269367 /* Aerys II Targaryen.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B4E19058CE000269367 /* Aerys II Targaryen.txt */; };
+		5D0E3BAA19058CE000269367 /* Areo Hotah.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B4F19058CE000269367 /* Areo Hotah.txt */; };
+		5D0E3BAB19058CE000269367 /* Arianne Martell.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5019058CE000269367 /* Arianne Martell.txt */; };
+		5D0E3BAC19058CE000269367 /* Arya Stark.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5119058CE000269367 /* Arya Stark.txt */; };
+		5D0E3BAD19058CE000269367 /* Arys Oakheart.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5219058CE000269367 /* Arys Oakheart.txt */; };
+		5D0E3BAE19058CE000269367 /* Asha Greyjoy .txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5319058CE000269367 /* Asha Greyjoy .txt */; };
+		5D0E3BAF19058CE000269367 /* Balon Greyjoy.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5419058CE000269367 /* Balon Greyjoy.txt */; };
+		5D0E3BB019058CE000269367 /* Balon Swann.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5519058CE000269367 /* Balon Swann.txt */; };
+		5D0E3BB119058CE000269367 /* Barristan Selmy.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5619058CE000269367 /* Barristan Selmy.txt */; };
+		5D0E3BB219058CE000269367 /* Beric Dondarrion.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5719058CE000269367 /* Beric Dondarrion.txt */; };
+		5D0E3BB319058CE000269367 /* Bran Stark.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5819058CE000269367 /* Bran Stark.txt */; };
+		5D0E3BB419058CE000269367 /* Brienne of Tarth.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5919058CE000269367 /* Brienne of Tarth.txt */; };
+		5D0E3BB519058CE000269367 /* Bronn.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5A19058CE000269367 /* Bronn.txt */; };
+		5D0E3BB619058CE000269367 /* Brynden Tully.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5B19058CE000269367 /* Brynden Tully.txt */; };
+		5D0E3BB719058CE000269367 /* Catelyn Stark.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5C19058CE000269367 /* Catelyn Stark.txt */; };
+		5D0E3BB819058CE000269367 /* Cersei Lannister.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5D19058CE000269367 /* Cersei Lannister.txt */; };
+		5D0E3BB919058CE000269367 /* Daenerys Targaryen.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5E19058CE000269367 /* Daenerys Targaryen.txt */; };
+		5D0E3BBA19058CE000269367 /* Davos Seaworth.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B5F19058CE000269367 /* Davos Seaworth.txt */; };
+		5D0E3BBB19058CE000269367 /* Doran Martell.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B6019058CE000269367 /* Doran Martell.txt */; };
+		5D0E3BBC19058CE000269367 /* Eddard Stark.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B6119058CE000269367 /* Eddard Stark.txt */; };
+		5D0E3BBD19058CE000269367 /* Edmure Tully.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B6219058CE000269367 /* Edmure Tully.txt */; };
+		5D0E3BBE19058CE000269367 /* Elia Martell.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B6319058CE000269367 /* Elia Martell.txt */; };
+		5D0E3BBF19058CE000269367 /* Euron Greyjoy.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B6419058CE000269367 /* Euron Greyjoy.txt */; };
+		5D0E3BC119058CE000269367 /* Gregor Clegane.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B6619058CE000269367 /* Gregor Clegane.txt */; };
+		5D0E3BC219058CE000269367 /* Hodor.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B6719058CE000269367 /* Hodor.txt */; };
+		5D0E3BC319058CE000269367 /* Hoster Tully.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B6819058CE000269367 /* Hoster Tully.txt */; };
+		5D0E3BC419058CE000269367 /* Illyrio Mopatis.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B6919058CE000269367 /* Illyrio Mopatis.txt */; };
+		5D0E3BC519058CE000269367 /* Ilyn Payne.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B6A19058CE000269367 /* Ilyn Payne.txt */; };
+		5D0E3BC619058CE000269367 /* Jaime Lannister.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B6B19058CE000269367 /* Jaime Lannister.txt */; };
+		5D0E3BC719058CE000269367 /* Janos Slynt.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B6C19058CE000269367 /* Janos Slynt.txt */; };
+		5D0E3BC819058CE000269367 /* Jaqen H'ghar.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B6D19058CE000269367 /* Jaqen H'ghar.txt */; };
+		5D0E3BC919058CE000269367 /* Jeor Mormont.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B6E19058CE000269367 /* Jeor Mormont.txt */; };
+		5D0E3BCA19058CE000269367 /* Jeyne Poole.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B6F19058CE000269367 /* Jeyne Poole.txt */; };
+		5D0E3BCB19058CE000269367 /* Jeyne Westerling.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7019058CE000269367 /* Jeyne Westerling.txt */; };
+		5D0E3BCC19058CE000269367 /* Joffrey Baratheon.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7119058CE000269367 /* Joffrey Baratheon.txt */; };
+		5D0E3BCD19058CE000269367 /* Jojen Reed.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7219058CE000269367 /* Jojen Reed.txt */; };
+		5D0E3BCE19058CE000269367 /* Jon Arryn.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7319058CE000269367 /* Jon Arryn.txt */; };
+		5D0E3BCF19058CE000269367 /* Jon Connington.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7419058CE000269367 /* Jon Connington.txt */; };
+		5D0E3BD019058CE000269367 /* Jon Snow.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7519058CE000269367 /* Jon Snow.txt */; };
+		5D0E3BD119058CE000269367 /* Jorah Mormont.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7619058CE000269367 /* Jorah Mormont.txt */; };
+		5D0E3BD219058CE000269367 /* Kevan Lannister.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7719058CE000269367 /* Kevan Lannister.txt */; };
+		5D0E3BD319058CE000269367 /* Khal Drogo.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7819058CE000269367 /* Khal Drogo.txt */; };
+		5D0E3BD419058CE000269367 /* Lancel Lannister.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7919058CE000269367 /* Lancel Lannister.txt */; };
+		5D0E3BD519058CE000269367 /* Loras Tyrell.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7A19058CE000269367 /* Loras Tyrell.txt */; };
+		5D0E3BD619058CE000269367 /* Lyanna Stark.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7B19058CE000269367 /* Lyanna Stark.txt */; };
+		5D0E3BD719058CE000269367 /* Lysa Arryn.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7C19058CE000269367 /* Lysa Arryn.txt */; };
+		5D0E3BD819058CE000269367 /* Mace Tyrell.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7D19058CE000269367 /* Mace Tyrell.txt */; };
+		5D0E3BD919058CE000269367 /* Maester Aemon.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7E19058CE000269367 /* Maester Aemon.txt */; };
+		5D0E3BDA19058CE000269367 /* Mance Rayder.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B7F19058CE000269367 /* Mance Rayder.txt */; };
+		5D0E3BDB19058CE000269367 /* Margaery Tyrell.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8019058CE000269367 /* Margaery Tyrell.txt */; };
+		5D0E3BDC19058CE000269367 /* Melisandre.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8119058CE000269367 /* Melisandre.txt */; };
+		5D0E3BDD19058CE000269367 /* Myrcella Baratheon.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8219058CE000269367 /* Myrcella Baratheon.txt */; };
+		5D0E3BDE19058CE000269367 /* Oberyn Martell.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8319058CE000269367 /* Oberyn Martell.txt */; };
+		5D0E3BDF19058CE000269367 /* Olenna Redwyne.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8419058CE000269367 /* Olenna Redwyne.txt */; };
+		5D0E3BE019058CE000269367 /* Osha.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8519058CE000269367 /* Osha.txt */; };
+		5D0E3BE119058CE000269367 /* Petyr Baelish .txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8619058CE000269367 /* Petyr Baelish .txt */; };
+		5D0E3BE219058CE000269367 /* Podrick Payne.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8719058CE000269367 /* Podrick Payne.txt */; };
+		5D0E3BE319058CE000269367 /* Pycelle.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8819058CE000269367 /* Pycelle.txt */; };
+		5D0E3BE419058CE000269367 /* Quentyn Martell.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8919058CE000269367 /* Quentyn Martell.txt */; };
+		5D0E3BE519058CE000269367 /* Qyburn.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8A19058CE000269367 /* Qyburn.txt */; };
+		5D0E3BE619058CE000269367 /* Ramsay Snow.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8B19058CE000269367 /* Ramsay Snow.txt */; };
+		5D0E3BE719058CE000269367 /* Renly Baratheon.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8C19058CE000269367 /* Renly Baratheon.txt */; };
+		5D0E3BE819058CE000269367 /* Rhaegar Targaryen.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8D19058CE000269367 /* Rhaegar Targaryen.txt */; };
+		5D0E3BE919058CE000269367 /* Rickon Stark.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8E19058CE000269367 /* Rickon Stark.txt */; };
+		5D0E3BEA19058CE000269367 /* Robb Stark.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B8F19058CE000269367 /* Robb Stark.txt */; };
+		5D0E3BEB19058CE000269367 /* Robert Arryn.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B9019058CE000269367 /* Robert Arryn.txt */; };
+		5D0E3BEC19058CE000269367 /* Robert Baratheon.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B9119058CE000269367 /* Robert Baratheon.txt */; };
+		5D0E3BED19058CE000269367 /* Roose Bolton.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B9219058CE000269367 /* Roose Bolton.txt */; };
+		5D0E3BEE19058CE000269367 /* Samwell Tarly.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B9319058CE000269367 /* Samwell Tarly.txt */; };
+		5D0E3BEF19058CE000269367 /* Sandor Clegane.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B9419058CE000269367 /* Sandor Clegane.txt */; };
+		5D0E3BF019058CE000269367 /* Sansa Stark.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B9519058CE000269367 /* Sansa Stark.txt */; };
+		5D0E3BF119058CE000269367 /* Stannis Baratheon.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B9619058CE000269367 /* Stannis Baratheon.txt */; };
+		5D0E3BF219058CE000269367 /* Syrio Forel.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B9719058CE000269367 /* Syrio Forel.txt */; };
+		5D0E3BF419058CE000269367 /* Theon Greyjoy.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B9919058CE000269367 /* Theon Greyjoy.txt */; };
+		5D0E3BF519058CE000269367 /* Thoros of Myr.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B9A19058CE000269367 /* Thoros of Myr.txt */; };
+		5D0E3BF619058CE000269367 /* Tommen Baratheon.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B9B19058CE000269367 /* Tommen Baratheon.txt */; };
+		5D0E3BF719058CE000269367 /* Tyrion Lannister.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B9C19058CE000269367 /* Tyrion Lannister.txt */; };
+		5D0E3BF819058CE000269367 /* Tywin Lannister.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B9D19058CE000269367 /* Tywin Lannister.txt */; };
+		5D0E3BF919058CE000269367 /* Val.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B9E19058CE000269367 /* Val.txt */; };
+		5D0E3BFA19058CE000269367 /* Varys.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3B9F19058CE000269367 /* Varys.txt */; };
+		5D0E3BFB19058CE000269367 /* Victarion Greyjoy.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3BA019058CE000269367 /* Victarion Greyjoy.txt */; };
+		5D0E3BFC19058CE000269367 /* Viserys Targaryen.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3BA119058CE000269367 /* Viserys Targaryen.txt */; };
+		5D0E3BFD19058CE000269367 /* Walder Frey.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3BA219058CE000269367 /* Walder Frey.txt */; };
+		5D0E3BFF19058CE000269367 /* Ygritte.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3BA419058CE000269367 /* Ygritte.txt */; };
+		5D0E3C0019058CE000269367 /* Yoren.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3BA519058CE000269367 /* Yoren.txt */; };
+		5D0E3C02190590DE00269367 /* characterlist.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3C01190590DE00269367 /* characterlist.txt */; };
+		5D0E3C041905982300269367 /* Meera Reed.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5D0E3C031905982300269367 /* Meera Reed.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +156,97 @@
 		5D0E3B351905460000269367 /* Characters_of_Ice_and_FireTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Characters_of_Ice_and_FireTests.m; sourceTree = "<group>"; };
 		5D0E3B401905466E00269367 /* tyrion-lannister.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "tyrion-lannister.jpg"; sourceTree = "<group>"; };
 		5D0E3B42190559DD00269367 /* lannister_sigil.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lannister_sigil.jpg; sourceTree = "<group>"; };
+		5D0E3B461905685500269367 /* daenerys-targaryen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "daenerys-targaryen.jpg"; sourceTree = "<group>"; };
+		5D0E3B4B19058CE000269367 /* Aegon Targaryen.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Aegon Targaryen.txt"; sourceTree = "<group>"; };
+		5D0E3B4C19058CE000269367 /* Aegon V Targaryen.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Aegon V Targaryen.txt"; sourceTree = "<group>"; };
+		5D0E3B4D19058CE000269367 /* Aeron Greyjoy.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Aeron Greyjoy.txt"; sourceTree = "<group>"; };
+		5D0E3B4E19058CE000269367 /* Aerys II Targaryen.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Aerys II Targaryen.txt"; sourceTree = "<group>"; };
+		5D0E3B4F19058CE000269367 /* Areo Hotah.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Areo Hotah.txt"; sourceTree = "<group>"; };
+		5D0E3B5019058CE000269367 /* Arianne Martell.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Arianne Martell.txt"; sourceTree = "<group>"; };
+		5D0E3B5119058CE000269367 /* Arya Stark.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Arya Stark.txt"; sourceTree = "<group>"; };
+		5D0E3B5219058CE000269367 /* Arys Oakheart.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Arys Oakheart.txt"; sourceTree = "<group>"; };
+		5D0E3B5319058CE000269367 /* Asha Greyjoy .txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Asha Greyjoy .txt"; sourceTree = "<group>"; };
+		5D0E3B5419058CE000269367 /* Balon Greyjoy.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Balon Greyjoy.txt"; sourceTree = "<group>"; };
+		5D0E3B5519058CE000269367 /* Balon Swann.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Balon Swann.txt"; sourceTree = "<group>"; };
+		5D0E3B5619058CE000269367 /* Barristan Selmy.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Barristan Selmy.txt"; sourceTree = "<group>"; };
+		5D0E3B5719058CE000269367 /* Beric Dondarrion.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Beric Dondarrion.txt"; sourceTree = "<group>"; };
+		5D0E3B5819058CE000269367 /* Bran Stark.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Bran Stark.txt"; sourceTree = "<group>"; };
+		5D0E3B5919058CE000269367 /* Brienne of Tarth.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Brienne of Tarth.txt"; sourceTree = "<group>"; };
+		5D0E3B5A19058CE000269367 /* Bronn.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Bronn.txt; sourceTree = "<group>"; };
+		5D0E3B5B19058CE000269367 /* Brynden Tully.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Brynden Tully.txt"; sourceTree = "<group>"; };
+		5D0E3B5C19058CE000269367 /* Catelyn Stark.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Catelyn Stark.txt"; sourceTree = "<group>"; };
+		5D0E3B5D19058CE000269367 /* Cersei Lannister.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Cersei Lannister.txt"; sourceTree = "<group>"; };
+		5D0E3B5E19058CE000269367 /* Daenerys Targaryen.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Daenerys Targaryen.txt"; sourceTree = "<group>"; };
+		5D0E3B5F19058CE000269367 /* Davos Seaworth.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Davos Seaworth.txt"; sourceTree = "<group>"; };
+		5D0E3B6019058CE000269367 /* Doran Martell.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Doran Martell.txt"; sourceTree = "<group>"; };
+		5D0E3B6119058CE000269367 /* Eddard Stark.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Eddard Stark.txt"; sourceTree = "<group>"; };
+		5D0E3B6219058CE000269367 /* Edmure Tully.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Edmure Tully.txt"; sourceTree = "<group>"; };
+		5D0E3B6319058CE000269367 /* Elia Martell.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Elia Martell.txt"; sourceTree = "<group>"; };
+		5D0E3B6419058CE000269367 /* Euron Greyjoy.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Euron Greyjoy.txt"; sourceTree = "<group>"; };
+		5D0E3B6619058CE000269367 /* Gregor Clegane.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Gregor Clegane.txt"; sourceTree = "<group>"; };
+		5D0E3B6719058CE000269367 /* Hodor.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Hodor.txt; sourceTree = "<group>"; };
+		5D0E3B6819058CE000269367 /* Hoster Tully.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Hoster Tully.txt"; sourceTree = "<group>"; };
+		5D0E3B6919058CE000269367 /* Illyrio Mopatis.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Illyrio Mopatis.txt"; sourceTree = "<group>"; };
+		5D0E3B6A19058CE000269367 /* Ilyn Payne.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Ilyn Payne.txt"; sourceTree = "<group>"; };
+		5D0E3B6B19058CE000269367 /* Jaime Lannister.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Jaime Lannister.txt"; sourceTree = "<group>"; };
+		5D0E3B6C19058CE000269367 /* Janos Slynt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Janos Slynt.txt"; sourceTree = "<group>"; };
+		5D0E3B6D19058CE000269367 /* Jaqen H'ghar.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Jaqen H'ghar.txt"; sourceTree = "<group>"; };
+		5D0E3B6E19058CE000269367 /* Jeor Mormont.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Jeor Mormont.txt"; sourceTree = "<group>"; };
+		5D0E3B6F19058CE000269367 /* Jeyne Poole.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Jeyne Poole.txt"; sourceTree = "<group>"; };
+		5D0E3B7019058CE000269367 /* Jeyne Westerling.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Jeyne Westerling.txt"; sourceTree = "<group>"; };
+		5D0E3B7119058CE000269367 /* Joffrey Baratheon.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Joffrey Baratheon.txt"; sourceTree = "<group>"; };
+		5D0E3B7219058CE000269367 /* Jojen Reed.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Jojen Reed.txt"; sourceTree = "<group>"; };
+		5D0E3B7319058CE000269367 /* Jon Arryn.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Jon Arryn.txt"; sourceTree = "<group>"; };
+		5D0E3B7419058CE000269367 /* Jon Connington.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Jon Connington.txt"; sourceTree = "<group>"; };
+		5D0E3B7519058CE000269367 /* Jon Snow.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Jon Snow.txt"; sourceTree = "<group>"; };
+		5D0E3B7619058CE000269367 /* Jorah Mormont.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Jorah Mormont.txt"; sourceTree = "<group>"; };
+		5D0E3B7719058CE000269367 /* Kevan Lannister.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Kevan Lannister.txt"; sourceTree = "<group>"; };
+		5D0E3B7819058CE000269367 /* Khal Drogo.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Khal Drogo.txt"; sourceTree = "<group>"; };
+		5D0E3B7919058CE000269367 /* Lancel Lannister.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Lancel Lannister.txt"; sourceTree = "<group>"; };
+		5D0E3B7A19058CE000269367 /* Loras Tyrell.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Loras Tyrell.txt"; sourceTree = "<group>"; };
+		5D0E3B7B19058CE000269367 /* Lyanna Stark.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Lyanna Stark.txt"; sourceTree = "<group>"; };
+		5D0E3B7C19058CE000269367 /* Lysa Arryn.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Lysa Arryn.txt"; sourceTree = "<group>"; };
+		5D0E3B7D19058CE000269367 /* Mace Tyrell.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mace Tyrell.txt"; sourceTree = "<group>"; };
+		5D0E3B7E19058CE000269367 /* Maester Aemon.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Maester Aemon.txt"; sourceTree = "<group>"; };
+		5D0E3B7F19058CE000269367 /* Mance Rayder.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Mance Rayder.txt"; sourceTree = "<group>"; };
+		5D0E3B8019058CE000269367 /* Margaery Tyrell.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Margaery Tyrell.txt"; sourceTree = "<group>"; };
+		5D0E3B8119058CE000269367 /* Melisandre.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Melisandre.txt; sourceTree = "<group>"; };
+		5D0E3B8219058CE000269367 /* Myrcella Baratheon.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Myrcella Baratheon.txt"; sourceTree = "<group>"; };
+		5D0E3B8319058CE000269367 /* Oberyn Martell.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Oberyn Martell.txt"; sourceTree = "<group>"; };
+		5D0E3B8419058CE000269367 /* Olenna Redwyne.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Olenna Redwyne.txt"; sourceTree = "<group>"; };
+		5D0E3B8519058CE000269367 /* Osha.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Osha.txt; sourceTree = "<group>"; };
+		5D0E3B8619058CE000269367 /* Petyr Baelish .txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Petyr Baelish .txt"; sourceTree = "<group>"; };
+		5D0E3B8719058CE000269367 /* Podrick Payne.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Podrick Payne.txt"; sourceTree = "<group>"; };
+		5D0E3B8819058CE000269367 /* Pycelle.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Pycelle.txt; sourceTree = "<group>"; };
+		5D0E3B8919058CE000269367 /* Quentyn Martell.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Quentyn Martell.txt"; sourceTree = "<group>"; };
+		5D0E3B8A19058CE000269367 /* Qyburn.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Qyburn.txt; sourceTree = "<group>"; };
+		5D0E3B8B19058CE000269367 /* Ramsay Snow.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Ramsay Snow.txt"; sourceTree = "<group>"; };
+		5D0E3B8C19058CE000269367 /* Renly Baratheon.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Renly Baratheon.txt"; sourceTree = "<group>"; };
+		5D0E3B8D19058CE000269367 /* Rhaegar Targaryen.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Rhaegar Targaryen.txt"; sourceTree = "<group>"; };
+		5D0E3B8E19058CE000269367 /* Rickon Stark.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Rickon Stark.txt"; sourceTree = "<group>"; };
+		5D0E3B8F19058CE000269367 /* Robb Stark.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Robb Stark.txt"; sourceTree = "<group>"; };
+		5D0E3B9019058CE000269367 /* Robert Arryn.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Robert Arryn.txt"; sourceTree = "<group>"; };
+		5D0E3B9119058CE000269367 /* Robert Baratheon.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Robert Baratheon.txt"; sourceTree = "<group>"; };
+		5D0E3B9219058CE000269367 /* Roose Bolton.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Roose Bolton.txt"; sourceTree = "<group>"; };
+		5D0E3B9319058CE000269367 /* Samwell Tarly.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Samwell Tarly.txt"; sourceTree = "<group>"; };
+		5D0E3B9419058CE000269367 /* Sandor Clegane.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Sandor Clegane.txt"; sourceTree = "<group>"; };
+		5D0E3B9519058CE000269367 /* Sansa Stark.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Sansa Stark.txt"; sourceTree = "<group>"; };
+		5D0E3B9619058CE000269367 /* Stannis Baratheon.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Stannis Baratheon.txt"; sourceTree = "<group>"; };
+		5D0E3B9719058CE000269367 /* Syrio Forel.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Syrio Forel.txt"; sourceTree = "<group>"; };
+		5D0E3B9919058CE000269367 /* Theon Greyjoy.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Theon Greyjoy.txt"; sourceTree = "<group>"; };
+		5D0E3B9A19058CE000269367 /* Thoros of Myr.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Thoros of Myr.txt"; sourceTree = "<group>"; };
+		5D0E3B9B19058CE000269367 /* Tommen Baratheon.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Tommen Baratheon.txt"; sourceTree = "<group>"; };
+		5D0E3B9C19058CE000269367 /* Tyrion Lannister.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Tyrion Lannister.txt"; sourceTree = "<group>"; };
+		5D0E3B9D19058CE000269367 /* Tywin Lannister.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Tywin Lannister.txt"; sourceTree = "<group>"; };
+		5D0E3B9E19058CE000269367 /* Val.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Val.txt; sourceTree = "<group>"; };
+		5D0E3B9F19058CE000269367 /* Varys.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Varys.txt; sourceTree = "<group>"; };
+		5D0E3BA019058CE000269367 /* Victarion Greyjoy.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Victarion Greyjoy.txt"; sourceTree = "<group>"; };
+		5D0E3BA119058CE000269367 /* Viserys Targaryen.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Viserys Targaryen.txt"; sourceTree = "<group>"; };
+		5D0E3BA219058CE000269367 /* Walder Frey.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Walder Frey.txt"; sourceTree = "<group>"; };
+		5D0E3BA419058CE000269367 /* Ygritte.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Ygritte.txt; sourceTree = "<group>"; };
+		5D0E3BA519058CE000269367 /* Yoren.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Yoren.txt; sourceTree = "<group>"; };
+		5D0E3C01190590DE00269367 /* characterlist.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = characterlist.txt; sourceTree = "<group>"; };
+		5D0E3C031905982300269367 /* Meera Reed.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Meera Reed.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,10 +356,109 @@
 		5D0E3B3F1905466300269367 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				5D0E3C01190590DE00269367 /* characterlist.txt */,
+				5D0E3B4819058A1800269367 /* Bios */,
 				5D0E3B42190559DD00269367 /* lannister_sigil.jpg */,
+				5D0E3B461905685500269367 /* daenerys-targaryen.jpg */,
 				5D0E3B401905466E00269367 /* tyrion-lannister.jpg */,
 			);
 			name = Resources;
+			sourceTree = "<group>";
+		};
+		5D0E3B4819058A1800269367 /* Bios */ = {
+			isa = PBXGroup;
+			children = (
+				5D0E3B4B19058CE000269367 /* Aegon Targaryen.txt */,
+				5D0E3B4C19058CE000269367 /* Aegon V Targaryen.txt */,
+				5D0E3B4D19058CE000269367 /* Aeron Greyjoy.txt */,
+				5D0E3B4E19058CE000269367 /* Aerys II Targaryen.txt */,
+				5D0E3B4F19058CE000269367 /* Areo Hotah.txt */,
+				5D0E3B5019058CE000269367 /* Arianne Martell.txt */,
+				5D0E3B5119058CE000269367 /* Arya Stark.txt */,
+				5D0E3B5219058CE000269367 /* Arys Oakheart.txt */,
+				5D0E3B5319058CE000269367 /* Asha Greyjoy .txt */,
+				5D0E3B5419058CE000269367 /* Balon Greyjoy.txt */,
+				5D0E3B5519058CE000269367 /* Balon Swann.txt */,
+				5D0E3B5619058CE000269367 /* Barristan Selmy.txt */,
+				5D0E3B5719058CE000269367 /* Beric Dondarrion.txt */,
+				5D0E3B5819058CE000269367 /* Bran Stark.txt */,
+				5D0E3B5919058CE000269367 /* Brienne of Tarth.txt */,
+				5D0E3B5A19058CE000269367 /* Bronn.txt */,
+				5D0E3C031905982300269367 /* Meera Reed.txt */,
+				5D0E3B5B19058CE000269367 /* Brynden Tully.txt */,
+				5D0E3B5C19058CE000269367 /* Catelyn Stark.txt */,
+				5D0E3B5D19058CE000269367 /* Cersei Lannister.txt */,
+				5D0E3B5E19058CE000269367 /* Daenerys Targaryen.txt */,
+				5D0E3B5F19058CE000269367 /* Davos Seaworth.txt */,
+				5D0E3B6019058CE000269367 /* Doran Martell.txt */,
+				5D0E3B6119058CE000269367 /* Eddard Stark.txt */,
+				5D0E3B6219058CE000269367 /* Edmure Tully.txt */,
+				5D0E3B6319058CE000269367 /* Elia Martell.txt */,
+				5D0E3B6419058CE000269367 /* Euron Greyjoy.txt */,
+				5D0E3B6619058CE000269367 /* Gregor Clegane.txt */,
+				5D0E3B6719058CE000269367 /* Hodor.txt */,
+				5D0E3B6819058CE000269367 /* Hoster Tully.txt */,
+				5D0E3B6919058CE000269367 /* Illyrio Mopatis.txt */,
+				5D0E3B6A19058CE000269367 /* Ilyn Payne.txt */,
+				5D0E3B6B19058CE000269367 /* Jaime Lannister.txt */,
+				5D0E3B6C19058CE000269367 /* Janos Slynt.txt */,
+				5D0E3B6D19058CE000269367 /* Jaqen H'ghar.txt */,
+				5D0E3B6E19058CE000269367 /* Jeor Mormont.txt */,
+				5D0E3B6F19058CE000269367 /* Jeyne Poole.txt */,
+				5D0E3B7019058CE000269367 /* Jeyne Westerling.txt */,
+				5D0E3B7119058CE000269367 /* Joffrey Baratheon.txt */,
+				5D0E3B7219058CE000269367 /* Jojen Reed.txt */,
+				5D0E3B7319058CE000269367 /* Jon Arryn.txt */,
+				5D0E3B7419058CE000269367 /* Jon Connington.txt */,
+				5D0E3B7519058CE000269367 /* Jon Snow.txt */,
+				5D0E3B7619058CE000269367 /* Jorah Mormont.txt */,
+				5D0E3B7719058CE000269367 /* Kevan Lannister.txt */,
+				5D0E3B7819058CE000269367 /* Khal Drogo.txt */,
+				5D0E3B7919058CE000269367 /* Lancel Lannister.txt */,
+				5D0E3B7A19058CE000269367 /* Loras Tyrell.txt */,
+				5D0E3B7B19058CE000269367 /* Lyanna Stark.txt */,
+				5D0E3B7C19058CE000269367 /* Lysa Arryn.txt */,
+				5D0E3B7D19058CE000269367 /* Mace Tyrell.txt */,
+				5D0E3B7E19058CE000269367 /* Maester Aemon.txt */,
+				5D0E3B7F19058CE000269367 /* Mance Rayder.txt */,
+				5D0E3B8019058CE000269367 /* Margaery Tyrell.txt */,
+				5D0E3B8119058CE000269367 /* Melisandre.txt */,
+				5D0E3B8219058CE000269367 /* Myrcella Baratheon.txt */,
+				5D0E3B8319058CE000269367 /* Oberyn Martell.txt */,
+				5D0E3B8419058CE000269367 /* Olenna Redwyne.txt */,
+				5D0E3B8519058CE000269367 /* Osha.txt */,
+				5D0E3B8619058CE000269367 /* Petyr Baelish .txt */,
+				5D0E3B8719058CE000269367 /* Podrick Payne.txt */,
+				5D0E3B8819058CE000269367 /* Pycelle.txt */,
+				5D0E3B8919058CE000269367 /* Quentyn Martell.txt */,
+				5D0E3B8A19058CE000269367 /* Qyburn.txt */,
+				5D0E3B8B19058CE000269367 /* Ramsay Snow.txt */,
+				5D0E3B8C19058CE000269367 /* Renly Baratheon.txt */,
+				5D0E3B8D19058CE000269367 /* Rhaegar Targaryen.txt */,
+				5D0E3B8E19058CE000269367 /* Rickon Stark.txt */,
+				5D0E3B8F19058CE000269367 /* Robb Stark.txt */,
+				5D0E3B9019058CE000269367 /* Robert Arryn.txt */,
+				5D0E3B9119058CE000269367 /* Robert Baratheon.txt */,
+				5D0E3B9219058CE000269367 /* Roose Bolton.txt */,
+				5D0E3B9319058CE000269367 /* Samwell Tarly.txt */,
+				5D0E3B9419058CE000269367 /* Sandor Clegane.txt */,
+				5D0E3B9519058CE000269367 /* Sansa Stark.txt */,
+				5D0E3B9619058CE000269367 /* Stannis Baratheon.txt */,
+				5D0E3B9719058CE000269367 /* Syrio Forel.txt */,
+				5D0E3B9919058CE000269367 /* Theon Greyjoy.txt */,
+				5D0E3B9A19058CE000269367 /* Thoros of Myr.txt */,
+				5D0E3B9B19058CE000269367 /* Tommen Baratheon.txt */,
+				5D0E3B9C19058CE000269367 /* Tyrion Lannister.txt */,
+				5D0E3B9D19058CE000269367 /* Tywin Lannister.txt */,
+				5D0E3B9E19058CE000269367 /* Val.txt */,
+				5D0E3B9F19058CE000269367 /* Varys.txt */,
+				5D0E3BA019058CE000269367 /* Victarion Greyjoy.txt */,
+				5D0E3BA119058CE000269367 /* Viserys Targaryen.txt */,
+				5D0E3BA219058CE000269367 /* Walder Frey.txt */,
+				5D0E3BA419058CE000269367 /* Ygritte.txt */,
+				5D0E3BA519058CE000269367 /* Yoren.txt */,
+			);
+			name = Bios;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -256,11 +537,102 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D0E3BD419058CE000269367 /* Lancel Lannister.txt in Resources */,
+				5D0E3BFF19058CE000269367 /* Ygritte.txt in Resources */,
+				5D0E3BAB19058CE000269367 /* Arianne Martell.txt in Resources */,
+				5D0E3C0019058CE000269367 /* Yoren.txt in Resources */,
+				5D0E3BD219058CE000269367 /* Kevan Lannister.txt in Resources */,
+				5D0E3BEC19058CE000269367 /* Robert Baratheon.txt in Resources */,
+				5D0E3BF119058CE000269367 /* Stannis Baratheon.txt in Resources */,
+				5D0E3BC919058CE000269367 /* Jeor Mormont.txt in Resources */,
+				5D0E3BC719058CE000269367 /* Janos Slynt.txt in Resources */,
+				5D0E3BC619058CE000269367 /* Jaime Lannister.txt in Resources */,
+				5D0E3BA819058CE000269367 /* Aeron Greyjoy.txt in Resources */,
+				5D0E3BB519058CE000269367 /* Bronn.txt in Resources */,
+				5D0E3BC819058CE000269367 /* Jaqen H'ghar.txt in Resources */,
+				5D0E3BCE19058CE000269367 /* Jon Arryn.txt in Resources */,
+				5D0E3BB419058CE000269367 /* Brienne of Tarth.txt in Resources */,
+				5D0E3BD319058CE000269367 /* Khal Drogo.txt in Resources */,
+				5D0E3BDD19058CE000269367 /* Myrcella Baratheon.txt in Resources */,
+				5D0E3BDB19058CE000269367 /* Margaery Tyrell.txt in Resources */,
+				5D0E3BBB19058CE000269367 /* Doran Martell.txt in Resources */,
+				5D0E3BD119058CE000269367 /* Jorah Mormont.txt in Resources */,
+				5D0E3BD819058CE000269367 /* Mace Tyrell.txt in Resources */,
+				5D0E3BB919058CE000269367 /* Daenerys Targaryen.txt in Resources */,
+				5D0E3BF519058CE000269367 /* Thoros of Myr.txt in Resources */,
+				5D0E3BA719058CE000269367 /* Aegon V Targaryen.txt in Resources */,
+				5D0E3BF719058CE000269367 /* Tyrion Lannister.txt in Resources */,
+				5D0E3BEB19058CE000269367 /* Robert Arryn.txt in Resources */,
 				5D0E3B43190559DD00269367 /* lannister_sigil.jpg in Resources */,
+				5D0E3C02190590DE00269367 /* characterlist.txt in Resources */,
+				5D0E3BFD19058CE000269367 /* Walder Frey.txt in Resources */,
+				5D0E3BAF19058CE000269367 /* Balon Greyjoy.txt in Resources */,
+				5D0E3BDC19058CE000269367 /* Melisandre.txt in Resources */,
+				5D0E3BD619058CE000269367 /* Lyanna Stark.txt in Resources */,
 				5D0E3B221905460000269367 /* Images.xcassets in Resources */,
+				5D0E3BC119058CE000269367 /* Gregor Clegane.txt in Resources */,
 				5D0E3B411905466E00269367 /* tyrion-lannister.jpg in Resources */,
+				5D0E3BBA19058CE000269367 /* Davos Seaworth.txt in Resources */,
+				5D0E3BDF19058CE000269367 /* Olenna Redwyne.txt in Resources */,
+				5D0E3BB119058CE000269367 /* Barristan Selmy.txt in Resources */,
+				5D0E3BED19058CE000269367 /* Roose Bolton.txt in Resources */,
+				5D0E3BE019058CE000269367 /* Osha.txt in Resources */,
+				5D0E3BE919058CE000269367 /* Rickon Stark.txt in Resources */,
+				5D0E3BE719058CE000269367 /* Renly Baratheon.txt in Resources */,
+				5D0E3BCF19058CE000269367 /* Jon Connington.txt in Resources */,
+				5D0E3BE619058CE000269367 /* Ramsay Snow.txt in Resources */,
+				5D0E3BB219058CE000269367 /* Beric Dondarrion.txt in Resources */,
+				5D0E3BAA19058CE000269367 /* Areo Hotah.txt in Resources */,
+				5D0E3BAE19058CE000269367 /* Asha Greyjoy .txt in Resources */,
+				5D0E3BF019058CE000269367 /* Sansa Stark.txt in Resources */,
+				5D0E3BF219058CE000269367 /* Syrio Forel.txt in Resources */,
+				5D0E3BBE19058CE000269367 /* Elia Martell.txt in Resources */,
+				5D0E3BDE19058CE000269367 /* Oberyn Martell.txt in Resources */,
+				5D0E3BCC19058CE000269367 /* Joffrey Baratheon.txt in Resources */,
+				5D0E3BBF19058CE000269367 /* Euron Greyjoy.txt in Resources */,
+				5D0E3BC219058CE000269367 /* Hodor.txt in Resources */,
+				5D0E3BCD19058CE000269367 /* Jojen Reed.txt in Resources */,
+				5D0E3BFC19058CE000269367 /* Viserys Targaryen.txt in Resources */,
+				5D0E3BE519058CE000269367 /* Qyburn.txt in Resources */,
+				5D0E3BD019058CE000269367 /* Jon Snow.txt in Resources */,
+				5D0E3BE419058CE000269367 /* Quentyn Martell.txt in Resources */,
+				5D0E3BD919058CE000269367 /* Maester Aemon.txt in Resources */,
+				5D0E3BDA19058CE000269367 /* Mance Rayder.txt in Resources */,
+				5D0E3BCB19058CE000269367 /* Jeyne Westerling.txt in Resources */,
+				5D0E3BC319058CE000269367 /* Hoster Tully.txt in Resources */,
+				5D0E3BFB19058CE000269367 /* Victarion Greyjoy.txt in Resources */,
+				5D0E3BEF19058CE000269367 /* Sandor Clegane.txt in Resources */,
+				5D0E3BB819058CE000269367 /* Cersei Lannister.txt in Resources */,
 				5D0E3B0E1905460000269367 /* InfoPlist.strings in Resources */,
+				5D0E3BE119058CE000269367 /* Petyr Baelish .txt in Resources */,
+				5D0E3BEE19058CE000269367 /* Samwell Tarly.txt in Resources */,
+				5D0E3BEA19058CE000269367 /* Robb Stark.txt in Resources */,
+				5D0E3BFA19058CE000269367 /* Varys.txt in Resources */,
+				5D0E3BCA19058CE000269367 /* Jeyne Poole.txt in Resources */,
+				5D0E3BF919058CE000269367 /* Val.txt in Resources */,
+				5D0E3C041905982300269367 /* Meera Reed.txt in Resources */,
+				5D0E3BBD19058CE000269367 /* Edmure Tully.txt in Resources */,
+				5D0E3BE319058CE000269367 /* Pycelle.txt in Resources */,
+				5D0E3BF619058CE000269367 /* Tommen Baratheon.txt in Resources */,
+				5D0E3BF419058CE000269367 /* Theon Greyjoy.txt in Resources */,
+				5D0E3BB319058CE000269367 /* Bran Stark.txt in Resources */,
+				5D0E3BD719058CE000269367 /* Lysa Arryn.txt in Resources */,
+				5D0E3BE819058CE000269367 /* Rhaegar Targaryen.txt in Resources */,
+				5D0E3BA619058CE000269367 /* Aegon Targaryen.txt in Resources */,
+				5D0E3BE219058CE000269367 /* Podrick Payne.txt in Resources */,
+				5D0E3BB619058CE000269367 /* Brynden Tully.txt in Resources */,
+				5D0E3B471905685500269367 /* daenerys-targaryen.jpg in Resources */,
+				5D0E3BBC19058CE000269367 /* Eddard Stark.txt in Resources */,
+				5D0E3BC419058CE000269367 /* Illyrio Mopatis.txt in Resources */,
+				5D0E3BAC19058CE000269367 /* Arya Stark.txt in Resources */,
 				5D0E3B171905460000269367 /* Main.storyboard in Resources */,
+				5D0E3BA919058CE000269367 /* Aerys II Targaryen.txt in Resources */,
+				5D0E3BB719058CE000269367 /* Catelyn Stark.txt in Resources */,
+				5D0E3BAD19058CE000269367 /* Arys Oakheart.txt in Resources */,
+				5D0E3BF819058CE000269367 /* Tywin Lannister.txt in Resources */,
+				5D0E3BB019058CE000269367 /* Balon Swann.txt in Resources */,
+				5D0E3BC519058CE000269367 /* Ilyn Payne.txt in Resources */,
+				5D0E3BD519058CE000269367 /* Loras Tyrell.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
